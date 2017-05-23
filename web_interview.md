@@ -58,10 +58,15 @@
 + null，undefined 的区别？
 + ["1", "2", "3"].map(parseInt) 答案是多少？
 + 什么是闭包（closure），为什么要用它？
-+ [].forEach.call($$("*"),function(a){a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)}) 能解释一下这段代码的意思吗？
++ <code>[].forEach.call($$("*"),function(a){a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)}) </code>能解释一下这段代码的意思吗？
 + Ajax 是什么? 如何创建一个Ajax？
 + 如何解决跨域问题?
 + DOM操作——怎样添加、移除、移动、复制、创建和查找节点?
 + Node.js的适用场景？
 + 你怎么看待Web App 、hybrid App、Native App？
+
+## 其他
++ 有哪些精通的前端框架或JS库，简要说明其优点
++ 对服务器端编程熟悉多少，比如NodeJS等
++ 最近在学什么东西？
 + 对前端工程师这个职位是怎么样理解的？它的前景会怎么样？
